@@ -4,7 +4,7 @@
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=badukaze&label=Profile%20views&color=0e75b6&style=flat" alt="badukaze" /> </p>
 
 <!-- TYPING DATA -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2700&pause=3000&color=02D9F7&center=true&vCenter=true&width=1000&lines=Hi+Badu+desu%E2%9C%A8;I'm+from+Mongolia%F0%9F%87%B2%F0%9F%87%B3;I'm+19+years+old%E2%9A%A1%EF%B8%8F;Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2700&pause=3000&color=02D9F7&center=true&vCenter=true&width=1000&lines=Hi+Badu+desu%E2%9C%A8;I'm+from+Mongolia%F0%9F%87%B2%F0%9F%87%B3;I'm+20+years+old%E2%9A%A1%EF%B8%8F;Welcome!)](https://git.io/typing-svg)
 
 <!-- ABOUT ME  -->
 <div align="center">
@@ -91,8 +91,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />  
+
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />  
   
 </p>
 <br>
